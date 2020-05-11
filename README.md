@@ -55,3 +55,14 @@ headers = {
 
 完整复制如上内容，替换脚本的**第五行**。
 
+# 常见问题
+
+#### 请购买该课程之后再学习(you did not buy this product,please buy it first)
+
+可能原因有两个，
+
+1. 提供的cookies参数可能存在问题，参数缺失，或者过期。
+2. 账号里未添加该课程
+
+#### 
+
