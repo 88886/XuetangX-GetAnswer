@@ -42,7 +42,7 @@ NUDT1204100081 这串就是SIGN
 
 右键这条请求，在Copy选项的二级菜单中点`Copy as Curl(bash)`。
 
-打开 https://curl.trillworks.com/，并将内容粘贴到左边的框子里。
+打开 curl.trillworks.com 并将内容粘贴到左边的框子里。
 
 在右边的框子里找到
 
